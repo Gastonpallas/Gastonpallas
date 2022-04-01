@@ -1,33 +1,34 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=DEV%20of%20Gast&fontSize=70&animation=waving&descSize=30&rotate=3&descSize=20&desc=Welcome%20to%20My%20Page%20👨‍💻&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=GITHUB%20DE%20Gaston&fontSize=70&animation=waving&descSize=30&rotate=3&descSize=20&desc=Bienvenue%20sur%20ma%20Page%&fontAlignY=40)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGastonpallas&count_bg=%23477BE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- Introduction -->
 
 
-### YOYOYO ! I'm a Junior Developer and I'm so interested in Java, Python. 
-### We code our dream :)
+### Je suis étudiant et j'aimerais devenir un jour développeur
 
 <br>
 
 <!-- TECH -->
-## 🧠 Capacity
+## 🧠 Compétences
 
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Sangmin-SHIM/Dividened_Korea-Python)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 <br>
 
 ### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 <br>
   
+  ![C#](https://img.shields.io/badge/-%20C%23-blue?style=for-the-badge&logo=csharp)
+  
 ### Database  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 ![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 <br>
