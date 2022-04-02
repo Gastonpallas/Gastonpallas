@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+![C#](https://img.shields.io/badge/-%20C%23-blueviolet?style=for-the-badge&logo=csharp) 
 <br>
 
 ### Frontend
@@ -25,31 +26,30 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 <br>
   
-  ![C#](https://img.shields.io/badge/-%20C%23-blue?style=for-the-badge&logo=csharp)
-  
 ### Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
-![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 <br>
 
-### Server
-![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
-![Apache](https://img.shields.io/badge/Tomcat-5E97B6?style=for-the-badge&logo=Apache%20Groovy&logoColor=white)
-
+### Framework
+![React](https://img.shields.io/badge/-%20React-%235dd3f3?style=for-the-badge&logo=createreactapp&logoColor=black)
+![angular](https://img.shields.io/badge/-Angular-%23DD0031?style=for-the-badge&logo=angular)
+![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django)
 <br>
+
+
 
 <!-- Career -->
 ## 💻 Experience
 
-| Type | Date | Contents | Organization |
+| Type | Date | Détails | Entreprise |
 | ------ | ------ | ------ | ------ |
-| Education | 2019.9 ~ 2020.5 | 1st year Student | EPSI <br>(L'école d'ingénierie informatique) |
-| Internship | 2020.5 ~ 6 | Web Development | Zawine France |
-| Prize (3rd) | 2020.10 ~ 11 | Innovative New Data Ideas Competition <br>(Big Data) | GBSA <br>(Gyeonggi-do Business & Science Accelerator) |
-| JOB (CDD) | 2020.12 ~ 2021.6 | Web Development (ERP & MES) | GAON SOFT |
-| **Education** | **2021.9 ~ (Now)** | **2nd year Student** | **EPSI <br>(L'école d'ingénierie informatique)** |
-| Internship | 2022.1 ~ 2 | Web Development (WordPress & Python) | Ilaria Academy |
+| **Etudes** | **2020.09 ~ (Maintenant)** | **2ème année** | **EPSI <br>(L'école d'ingénierie informatique)** |
+| Stage | 2022.05 ~ 2022.07 | TMA Fullstack dans le domaine Banque/Assurance | CGI France |
+| Stage | 2021.05 ~ 2021.06 | Refonte site Web | CREPS de Bordeaux |
+
+
 
 <br>
 
