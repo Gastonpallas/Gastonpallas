@@ -46,7 +46,8 @@
 | Type | Date | Détails | Entreprise |
 | ------ | ------ | ------ | ------ |
 | **Etudes** | **2020.09 ~ (Maintenant)** | **2ème année** | **EPSI <br>(L'école d'ingénierie informatique)** |
-| Stage | 2022.05 ~ 2022.07 | TMA Fullstack dans le domaine Banque/Assurance | CGI France |
+| Alternance | 2022.09 ~ 2023.09 | Developpeur dans le domaine Banque/Assurance | CGI France |
+| Stage | 2022.05 ~ 2022.07 | Developpeur dans le domaine Banque/Assurance | CGI France |
 | Stage | 2021.05 ~ 2021.06 | Refonte site Web | CREPS de Bordeaux |
 
 
