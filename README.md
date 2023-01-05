@@ -5,7 +5,7 @@
 <!-- Introduction -->
 
 
-### Je suis étudiant et j'aimerais devenir un jour développeur
+### Je suis alternant et j'aimerais devenir un jour développeur
 
 <br>
 
@@ -57,18 +57,9 @@
 <img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200" height="100%"/>
 
 ```
-2020~2022 
+2020~2023
 EPSI Bordeaux
 ```
-
-
-
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gastonpallas)](https://github.com/Gastonpallas)
-
-
-<br>
 
 <!-- Contact -->
 ## :mailbox_with_mail: Contact
