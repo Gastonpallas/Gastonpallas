@@ -54,7 +54,8 @@
 
 <br>
 
-<img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200" height="100%"/>
+<img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="EPSI" width="200" height="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/CGI_logo.svg/2560px-CGI_logo.svg.png" alt="CGI" width="200" height="100%"/>
 
 ```
 2020~2023
