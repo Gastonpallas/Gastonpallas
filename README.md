@@ -14,9 +14,8 @@
 
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![C#](https://img.shields.io/badge/-%20C%23-blueviolet?style=for-the-badge&logo=csharp) 
 <br>
 
@@ -28,7 +27,8 @@
   
 ### Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 <br>
 
 ### Framework
@@ -36,6 +36,7 @@
 ![angular](https://img.shields.io/badge/-Angular-%23DD0031?style=for-the-badge&logo=angular)
 ![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) 
 <br>
 
 
@@ -45,27 +46,22 @@
 
 | Type | Date | Détails | Entreprise |
 | ------ | ------ | ------ | ------ |
-| **Etudes** | **2020.09 ~ (Maintenant)** | **3ème année** | **EPSI <br>(L'école d'ingénierie informatique)** |
-| Alternance | 2022.09 ~ 2023.09 | Developpeur dans le domaine Banque/Assurance | CGI France |
+| **Etudes** | **2023.09 ~ (Maintenant)** | **3ème année** | **EPSI <br>(L'école d'ingénierie informatique)** |
+| **Etudes** | **2020.09 ~ 2023.09** | **3ème année** | **Bachelor Concepteur intégrateur DEVOPS Titre RNCP CDA de niveau 6** |
+| Alternance | 2023.10 ~ 2025.10 | Developpeur Full Stack dans le domaine Banque/Assurance | Société Générale |
+| Alternance | 2022.09 ~ 2023.09 | Developpeur Java dans le domaine Banque/Assurance | CGI France |
 | Stage | 2022.05 ~ 2022.07 | Developpeur dans le domaine Banque/Assurance | CGI France |
 | Stage | 2021.05 ~ 2021.06 | Refonte site Web | CREPS de Bordeaux |
 
-
-
-<br>
-
-<img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="EPSI" width="200" height="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/CGI_logo.svg/2560px-CGI_logo.svg.png" alt="CGI" width="200" height="100%"/>
-
 ```
-2020~2023
-EPSI Bordeaux
+2020~2025
+EPSI Paris
 ```
 
 <!-- Contact -->
 ## :mailbox_with_mail: Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gastonpallas@ecoles-wis.net)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gastonpallas@ecoles-epsi.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-pallas/)
 
 
