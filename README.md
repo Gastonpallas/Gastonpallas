@@ -46,8 +46,8 @@
 
 | Type | Date | Détails | Entreprise |
 | ------ | ------ | ------ | ------ |
-| **Etudes** | **2023.09 ~ (Maintenant)** | **3ème année** | **EPSI <br>(L'école d'ingénierie informatique)** |
-| **Etudes** | **2020.09 ~ 2023.09** | **3ème année** | **Bachelor Concepteur intégrateur DEVOPS Titre RNCP CDA de niveau 6** |
+| **Etudes** | **2023.09 ~ (Maintenant)** | **MSc Expert en Informatique et Système d'Information Titre RNCP CDA de niveau 7** | **EPSI <br>(L'école d'ingénierie informatique) Paris** |
+| Etudes | 2020.09 ~ 2023.09 | Bachelor Concepteur intégrateur DEVOPS Titre RNCP CDA de niveau 6 | EPSI <br>(L'école d'ingénierie informatique) Bordeaux |
 | Alternance | 2023.10 ~ 2025.10 | Developpeur Full Stack dans le domaine Banque/Assurance | Société Générale |
 | Alternance | 2022.09 ~ 2023.09 | Developpeur Java dans le domaine Banque/Assurance | CGI France |
 | Stage | 2022.05 ~ 2022.07 | Developpeur dans le domaine Banque/Assurance | CGI France |
