@@ -5,7 +5,7 @@
 <!-- Introduction -->
 
 
-### Je suis alternant et j'aimerais devenir un jour développeur
+### Je suis alternant en développement et j'aimerais devenir Product Owner
 
 <br>
 
